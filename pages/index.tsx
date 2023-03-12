@@ -45,7 +45,7 @@ export default function Home() {
                 alt="Restored photo of me"
                 width={400}
                 height={400}
-                src="/output.png"
+                src="/output.jpeg"
                 className="mt-2  h-[560px] w-96 rounded-2xl sm:mt-0"
               />
             </div>
